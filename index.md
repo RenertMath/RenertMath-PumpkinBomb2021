@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+### Welcome to the Pumpkin BOMB challenge
 
-You can use the [editor on GitHub](https://github.com/RenertMath/RenertMath-PumpkinBomb2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins. We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. Here are pictures of each of the four pumpkins:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pumpkin A
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_top.jpg"> </p>
+    </p>
+  </div>
+</div>
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Pumpkin B
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinB_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinB_top.jpg"> </p>
+    </p>
+  </div>
+</div>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Pumpkin C
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinC_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinC_top.jpg"> </p>
+    </p>
+  </div>
+</div>
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### Pumpkin D
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinD_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinD_top.jpg"> </p>
+    </p>
+  </div>
+</div>
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+You may notice that each pumpkin has a unique shape and size. Can you tell how big they are? 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We have created <a href="https://drive.google.com/file/d/1YJOabLfp-1xUdJ0rJRpUtZUwLfkyxJCw/view?usp=sharing"> this video </a> to help you understand what this will look like, and to aid in your estimation. Can you figure out the diameter of the pumpkin in the video? 
 
-### Jekyll Themes
+You will work in teams of 1-4. Each team must be **clearly** identified. If you submit on multiple teams you will be **disqualified**. Submit estimations (and justifications) using <a href="https://docs.google.com/forms/d/e/1FAIpQLScp9PwjoaDKis6h3mWmtivsLXILTB8MPAtObO6yPT4k4yZC4g/viewform?usp=sf_link"> this form</a>.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenertMath/RenertMath-PumpkinBomb2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+There will be prizes awared for the: 
+* Closest estimation 
+* Best estimation strategy 
 
-### Support or Contact
+GOOD LUCK and **MATH ON!** 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### RESULTS 
+Check out <a href="https://drive.google.com/file/d/14eTkhJX0YxVpIDKtIBcO2I2xVMjszutn/view?usp=sharing"> this video</a>.
+
