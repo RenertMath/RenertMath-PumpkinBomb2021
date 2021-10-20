@@ -70,6 +70,108 @@ In this challenge you are trying to estimate the number of elastic bands it take
 
 ---
 
+### Pumpkin E
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinE_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinE_top.jpg"> </p>
+    </p>
+  </div>
+</div>
+
+---
+
+### Pumpkin F
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinF_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinF_top.jpg"> </p>
+    </p>
+  </div>
+</div>
+
+---
+
+### Pumpkin G
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinG_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinG_top.jpg"> </p>
+    </p>
+  </div>
+</div>
+
+---
+
+### Pumpkin H
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinH_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinH_top.jpg"> </p>
+    </p>
+  </div>
+</div>
+
+---
+
+### Pumpkin I
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinI_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinI_top.jpg"> </p>
+    </p>
+  </div>
+</div>
+
+---
+
+### Pumpkin J
+<div class="row">
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinJ_front.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <p>
+      <p align="center"> <img class="prof" src="https://renertmath.github.io/RenertMath-PumpkinBomb2021/PumpkinJ_top.jpg"> </p>
+    </p>
+  </div>
+</div>
+
+---
+
 You may notice that each pumpkin has a unique shape and size. Can you tell how big they are? 
 
 We have created <a href="https://drive.google.com/file/d/1YJOabLfp-1xUdJ0rJRpUtZUwLfkyxJCw/view?usp=sharing"> this video </a> to help you understand what this will look like, and to aid in your estimation. Can you figure out the diameter of the pumpkin in the video? 
