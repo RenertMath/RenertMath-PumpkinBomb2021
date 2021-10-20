@@ -184,7 +184,7 @@ There will be prizes awared for the:
 
 GOOD LUCK and **MATH ON!** 
 
-You may also look at the results from last years contest <a href="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/"> here /a>.
+You may also look at the results from last years contest <a href="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/"> here </a>.
 
 <!--
 ### RESULTS 
